@@ -18,38 +18,11 @@ body
   
 }
 
-.BUTTON_TCC {
-    background: #05FFFF;
-    background-image: linear-gradient(to bottom, #05FFFF, #06D76B);
-    border-radius: 5px;
-    color: #FFFFFF;
-    font-family: Arial;
-    font-size: 20px;
-    font-weight: 200;
-    padding: 13px;
-    border: solid #337FED 1px;
-    text-decoration: none;
-    display: inline-block;
-    cursor: pointer;
-    text-align: center;
- }
- 
- .BUTTON_TCC:hover {
-    border: solid #337FED 1px;
-    background: #D01E1E;
-    background-image: -webkit-linear-gradient(top, #D01E1E, #F63D3D);
-    background-image: -moz-linear-gradient(top, #D01E1E, #F63D3D);
-    background-image: -ms-linear-gradient(top, #D01E1E, #F63D3D);
-    background-image: -o-linear-gradient(top, #D01E1E, #F63D3D);
-    background-image: linear-gradient(to bottom, #D01E1E, #F63D3D);
-    border-radius: 10px;
-    text-decoration: none;
- }
 .buttom-cloud
 {
     position: absolute;
-    left: 250px;
-    bottom:300px;
+    left: 300px;
+    bottom:200px;
    
 }
 .contact-sms
@@ -161,7 +134,7 @@ p{
 {
     position: absolute;
     right: 300px;
-    top: 40px;
+    top: 30px;
    /* display:inline-block;**/
 }
 .footer-link
